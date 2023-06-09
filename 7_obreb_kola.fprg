@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 05:14:43 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDU6MDY6NDcgUE07MjkyNQ=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDU6MTQ6NDMgUE07MTszMDI4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, y, r, odlegloscOdSrodka" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj x&quot;" newline="True"/>
+            <input variable="x"/>
+            <output expression="&quot;Podaj y&quot;" newline="True"/>
+            <input variable="y"/>
+            <output expression="&quot;Podaj r&quot;" newline="True"/>
+            <input variable="r"/>
+            <if expression="x*x + y*y&lt;=r*r">
+                <then>
+                    <output expression="&quot;Wpisane wsp&#243;&#322;rz&#281;dne znajduj&#261; si&#281; w obr&#281;bie ko&#322;a&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Wpisane wsp&#243;&#322;rz&#281;dne NIE znajduj&#261; si&#281; w obr&#281;bie ko&#322;a&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

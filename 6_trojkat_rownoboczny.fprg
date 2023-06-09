@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:52:55 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDQ6MTg6MTAgUE07MjkxNw=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDQ6NTI6NTUgUE07MjszMDMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <output expression="&quot;Podaj d&#322;ugo&#347;&#263; boku A&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Podaj d&#322;ugo&#347;&#263; boku B&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;podaj d&#322;ugo&#347;&#263; boku C&quot;" newline="True"/>
+            <input variable="c"/>
+            <if expression="a=b &amp;&amp; b=c &amp;&amp; c=a">
+                <then>
+                    <output expression="&quot;Tr&#243;jk&#261;t jest r&#243;wnoboczny&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Tr&#243;jk&#261;t nie jest r&#243;wnoboczny&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

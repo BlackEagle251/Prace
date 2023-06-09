@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:17:31 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDQ6MTI6MjIgUE07MjkxNA=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDQ6MTc6MzEgUE07MTszMDI3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <if expression="a&gt;b">
+                <then>
+                    <output expression="&quot;Liczba a jest wi&#281;ksza od b&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Liczba b jest wi&#281;ksza od a&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

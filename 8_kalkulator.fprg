@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-09 07:02:11 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDY6MTQ6MTcgUE07MjkyMg=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDk7MDc6MDI6MTEgUE07MjszMDI5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="opcja" type="Real" array="False" size=""/>
+            <output expression="&quot;Wybierz dzia&#322;anie: 1- Mno&#380;enie 2 - Dzielenie 3 - Dodawanie 4 - Odejmowanie&quot;" newline="True"/>
+            <input variable="opcja"/>
+            <if expression="opcja=1">
+                <then>
+                    <declare name="a, b" type="Real" array="False" size=""/>
+                    <declare name="wynik" type="Real" array="False" size=""/>
+                    <output expression="&quot;Mno&#380;enie: Podaj dwie liczby:&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <input variable="b"/>
+                    <assign variable="wynik" expression="a*b"/>
+                    <output expression="&quot;Wynik mno&#380;enia: &quot; &amp; wynik" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="opcja=2">
+                <then>
+                    <declare name="a, b" type="Real" array="False" size=""/>
+                    <output expression="&quot;Dzielenie: Podaj dwie liczby&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <input variable="b"/>
+                    <declare name="wynik" type="Real" array="False" size=""/>
+                    <assign variable="wynik" expression="a/b"/>
+                    <output expression="&quot;Wynik dzielenia: &quot; &amp; wynik" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="opcja=3">
+                <then>
+                    <declare name="a, b" type="Real" array="False" size=""/>
+                    <output expression="&quot;Dodawanie: Podaj dwie liczby&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <input variable="b"/>
+                    <declare name="wynik" type="Real" array="False" size=""/>
+                    <assign variable="wynik" expression="a+b"/>
+                    <output expression="&quot;Wynik dodawania: &quot; &amp; wynik" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="opcja=4">
+                <then>
+                    <declare name="a, b" type="Real" array="False" size=""/>
+                    <input variable="a"/>
+                    <input variable="b"/>
+                    <declare name="wynik" type="Real" array="False" size=""/>
+                    <assign variable="wynik" expression="a-b"/>
+                    <output expression="&quot;Wynik odejmowania: &quot; &amp; wynik" newline="True"/>
+                </then>
+                <else/>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

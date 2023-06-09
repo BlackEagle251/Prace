@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:12:19 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDM6NDQ6NTcgUE07MjkyNg=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDQ6MTI6MTkgUE07MTszMDI4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, d" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <input variable="c"/>
+            <input variable="d"/>
+            <declare name="licznikMianownik" type="Integer" array="False" size=""/>
+            <assign variable="licznikMianownik" expression="a/b+c/d"/>
+            <if expression="b=0 or d=0">
+                <then>
+                    <output expression="&quot;Brak rozwi&#261;za&#324;&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="licznikMianownik" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

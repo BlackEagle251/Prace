@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="patry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 06:04:49 PM"/>
+        <attribute name="created" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDM6MDY6NDIgUE07MjkxOA=="/>
+        <attribute name="edited" value="cGF0cnk7REVTS1RPUC1EOENOSUlVOzIwMjMtMDYtMDM7MDY6MDQ6NDkgUE07MjszMDM1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="poleKola" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj pole ko&#322;a&quot;" newline="True"/>
+            <input variable="poleKola"/>
+            <declare name="promien" type="Real" array="False" size=""/>
+            <assign variable="promien" expression="sqrt(Polekola/pi)"/>
+            <output expression="promien" newline="True"/>
+            <declare name="obwodKola" type="Integer" array="False" size=""/>
+            <assign variable="obwodKola" expression="2*pi*promien"/>
+            <output expression="obwodKola" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
