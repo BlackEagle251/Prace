@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\bin\Debug\02_n_liczbParzystych.exe.config
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\bin\Debug\02_n_liczbParzystych.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\bin\Debug\02_n_liczbParzystych.pdb
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\obj\Debug\02_n_liczbParzystych.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\obj\Debug\02_n_liczbParzystych.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\obj\Debug\02_n_liczbParzystych.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\obj\Debug\02_n_liczbParzystych.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\02_n_liczbParzystych\obj\Debug\02_n_liczbParzystych.pdb

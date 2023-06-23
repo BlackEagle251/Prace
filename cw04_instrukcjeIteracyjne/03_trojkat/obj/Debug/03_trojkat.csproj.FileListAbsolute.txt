@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\bin\Debug\03_trojkat.exe.config
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\bin\Debug\03_trojkat.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\bin\Debug\03_trojkat.pdb
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\obj\Debug\03_trojkat.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\obj\Debug\03_trojkat.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\obj\Debug\03_trojkat.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\obj\Debug\03_trojkat.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\03_trojkat\obj\Debug\03_trojkat.pdb

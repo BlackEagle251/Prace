@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\obj\Debug\01_n_liczbPierwszych.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\obj\Debug\01_n_liczbPierwszych.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\obj\Debug\01_n_liczbPierwszych.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\bin\Debug\01_n_liczbPierwszych.exe.config
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\bin\Debug\01_n_liczbPierwszych.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\bin\Debug\01_n_liczbPierwszych.pdb
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\obj\Debug\01_n_liczbPierwszych.exe
+E:\Podstawy Programowania ćwiczenia\cw04_instrukcjeIteracyjne\01_n_liczbPierwszych\obj\Debug\01_n_liczbPierwszych.pdb
