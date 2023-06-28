@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\bin\Debug\03_wypelnianieUzytownik.exe.config
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\bin\Debug\03_wypelnianieUzytownik.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\bin\Debug\03_wypelnianieUzytownik.pdb
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\obj\Debug\03_wypelnianieUzytownik.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\obj\Debug\03_wypelnianieUzytownik.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\obj\Debug\03_wypelnianieUzytownik.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\obj\Debug\03_wypelnianieUzytownik.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\03_wypelnianieUzytownik\obj\Debug\03_wypelnianieUzytownik.pdb

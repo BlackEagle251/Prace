@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\obj\Debug\02_wypelnianieSpiralne.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\obj\Debug\02_wypelnianieSpiralne.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\obj\Debug\02_wypelnianieSpiralne.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\bin\Debug\02_wypelnianieSpiralne.exe.config
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\bin\Debug\02_wypelnianieSpiralne.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\bin\Debug\02_wypelnianieSpiralne.pdb
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\obj\Debug\02_wypelnianieSpiralne.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\02_wypelnianieSpiralne\obj\Debug\02_wypelnianieSpiralne.pdb

@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\bin\Debug\01_wypelnianieRosnaco.exe.config
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\bin\Debug\01_wypelnianieRosnaco.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\bin\Debug\01_wypelnianieRosnaco.pdb
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\obj\Debug\01_wypelnianieRosnaco.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\obj\Debug\01_wypelnianieRosnaco.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\obj\Debug\01_wypelnianieRosnaco.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\obj\Debug\01_wypelnianieRosnaco.exe
+E:\Podstawy Programowania ćwiczenia\cw5_tabliceDwuwymiarowe\01_wypelnianieRosnaco\obj\Debug\01_wypelnianieRosnaco.pdb
