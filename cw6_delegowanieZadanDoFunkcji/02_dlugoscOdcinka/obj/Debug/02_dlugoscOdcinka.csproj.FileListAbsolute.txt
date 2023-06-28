@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\bin\Debug\02_dlugoscOdcinka.exe.config
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\bin\Debug\02_dlugoscOdcinka.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\bin\Debug\02_dlugoscOdcinka.pdb
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\obj\Debug\02_dlugoscOdcinka.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\obj\Debug\02_dlugoscOdcinka.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\obj\Debug\02_dlugoscOdcinka.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\obj\Debug\02_dlugoscOdcinka.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\02_dlugoscOdcinka\obj\Debug\02_dlugoscOdcinka.pdb

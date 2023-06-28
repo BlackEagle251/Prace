@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\bin\Debug\03_mediana.exe.config
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\bin\Debug\03_mediana.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\bin\Debug\03_mediana.pdb
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\obj\Debug\03_mediana.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\obj\Debug\03_mediana.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\obj\Debug\03_mediana.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\obj\Debug\03_mediana.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\03_mediana\obj\Debug\03_mediana.pdb

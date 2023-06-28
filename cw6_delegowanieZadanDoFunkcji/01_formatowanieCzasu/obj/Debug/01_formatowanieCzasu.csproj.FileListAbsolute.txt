@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\bin\Debug\01_formatowanieCzasu.exe.config
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\bin\Debug\01_formatowanieCzasu.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\bin\Debug\01_formatowanieCzasu.pdb
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\obj\Debug\01_formatowanieCzasu.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\obj\Debug\01_formatowanieCzasu.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\obj\Debug\01_formatowanieCzasu.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\obj\Debug\01_formatowanieCzasu.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\01_formatowanieCzasu\obj\Debug\01_formatowanieCzasu.pdb
