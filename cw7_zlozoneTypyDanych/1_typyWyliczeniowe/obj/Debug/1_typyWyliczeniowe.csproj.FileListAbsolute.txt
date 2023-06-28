@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\obj\Debug\1_typyWyliczeniowe.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\obj\Debug\1_typyWyliczeniowe.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\obj\Debug\1_typyWyliczeniowe.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\bin\Debug\1_typyWyliczeniowe.exe.config
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\bin\Debug\1_typyWyliczeniowe.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\bin\Debug\1_typyWyliczeniowe.pdb
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\obj\Debug\1_typyWyliczeniowe.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\1_typyWyliczeniowe\obj\Debug\1_typyWyliczeniowe.pdb

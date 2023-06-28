@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\bin\Debug\4_strukturaStudent.exe.config
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\bin\Debug\4_strukturaStudent.exe
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\bin\Debug\4_strukturaStudent.pdb
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\obj\Debug\4_strukturaStudent.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\obj\Debug\4_strukturaStudent.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\obj\Debug\4_strukturaStudent.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\obj\Debug\4_strukturaStudent.exe
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\4_strukturaStudent\obj\Debug\4_strukturaStudent.pdb

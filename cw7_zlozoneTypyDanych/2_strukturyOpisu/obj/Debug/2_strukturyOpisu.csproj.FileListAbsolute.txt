@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\bin\Debug\2_strukturyOpisu.exe.config
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\bin\Debug\2_strukturyOpisu.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\bin\Debug\2_strukturyOpisu.pdb
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\obj\Debug\2_strukturyOpisu.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\obj\Debug\2_strukturyOpisu.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\obj\Debug\2_strukturyOpisu.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\obj\Debug\2_strukturyOpisu.exe
+E:\Podstawy Programowania ćwiczenia\cw6_delegowanieZadanDoFunkcji\2_strukturyOpisu\obj\Debug\2_strukturyOpisu.pdb

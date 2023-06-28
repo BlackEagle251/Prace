@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\bin\Debug\informacjeoPrzedmiocie.exe.config
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\bin\Debug\informacjeoPrzedmiocie.exe
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\bin\Debug\informacjeoPrzedmiocie.pdb
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\obj\Debug\informacjeoPrzedmiocie.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\obj\Debug\informacjeoPrzedmiocie.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\obj\Debug\informacjeoPrzedmiocie.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\obj\Debug\informacjeoPrzedmiocie.exe
+E:\Podstawy Programowania ćwiczenia\cw7_zlozoneTypyDanych\informacjeoPrzedmiocie\obj\Debug\informacjeoPrzedmiocie.pdb
